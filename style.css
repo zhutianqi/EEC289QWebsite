@@ -3,6 +3,11 @@ a.blogLink{
     font-size: 20px;
 }
 
+a.proposalLink{
+    color: #009900;
+    font-size: 20px;
+}
+
 img.megumi{
     width:70%;
     height:70%;
